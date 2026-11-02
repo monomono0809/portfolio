@@ -6,10 +6,10 @@
     {
       "week": 1,
       "title": "감 테스트",
-      "line": "서울에서 눈이 얼마나 오는지 다섯 문항으로 맞혀보는 퀴즈 폰에서 풀수 있습니다",
-      "judgment": "눈 온 날을 하루 1cm이상으로 정하고 그 기준을 문항 문장에 넣는다. 정답 하나는 엑셀로 직접 세어 맞췄다",
+      "line": "공식 통계와 공개 데이터를 활용해 대한민국 직장생활 감 테스트 5문항",
+      "judgment": "질문은 쉽게 이해할 수 있어야 하고, 조사 대상과 기준연도를 명확히 하며, 정답은 직접 계산한 값보다 공식 발표된 전체 값을 사용하기로 했다.",
       "ai": ["Claude Code", "v0", "Perplexity"],
-      "url": "https://gam-test-rp35.vercel.app",
+      "url": "https://gam-test-ifr1.vercel.app",
       "img": "img/w1.jpg"
     }
   ],
