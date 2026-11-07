@@ -11,6 +11,15 @@
       "ai": ["Claude Code", "v0", "Perplexity"],
       "url": "https://gam-test-yxz4.vercel.app/",
       "img": "img/w1.jpg"
+    },
+    {
+      "week": 2,
+      "title": "창업지원 문의 분류기 — 빈 폴더에서",
+      "line": "참여기업 문의 한 줄을 넣으면 칸·긴급도·이유가 나옵니다. 연습 문장과 분류 기준을 만들고, 채점용 정답은 직접 확정했습니다.",
+      "judgment": "사업비·정산 문의를 다른 칸으로 배정하는 것을 가장 중요한 분류 오류로 정했다. 직접 확정한 정답 30개로 평가한 결과, 규칙의 칸 정확도는 73.3%, 긴급도 정확도는 56.7%였다. AI의 칸 정확도는 1차 96.7%, 2차 96.7%, 긴급도 정확도는 1차 80.0%, 2차 83.3%였다.",
+      "ai": ["Claude Code", "Gemini"],
+      "url": "https://my-classifier-git-main-monomono0809-5942.vercel.app/",
+      "img": "img/w2.jpg"
     }
   ],
   "proposal": null
